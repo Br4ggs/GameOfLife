@@ -1,0 +1,43 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 1080 (ID=0x1b80)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   23.21.13.9077
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\emiel\Desktop\Conways GOL\Conways GOL\Conway's GOL\Game of life_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\emiel\Desktop\Conways GOL\Conways GOL\Conway's GOL\Game of life_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\emiel\Desktop\Conways GOL\Conways GOL\Conway's GOL\Game of life_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\emiel\Desktop\Conways GOL\Conways GOL\Conway's GOL\Game of life_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\emiel\Desktop\Conways GOL\Conways GOL\Conway's GOL\Game of life_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\emiel\Desktop\Conways GOL\Conways GOL\Conway's GOL\Game of life_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\emiel\Desktop\Conways GOL\Conways GOL\Conway's GOL\Game of life_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\emiel\Desktop\Conways GOL\Conways GOL\Conway's GOL\Game of life_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\emiel\Desktop\Conways GOL\Conways GOL\Conway's GOL\Game of life_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\emiel\Desktop\Conways GOL\Conways GOL\Conway's GOL\Game of life_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.027 seconds
+Platform assembly: C:\Users\emiel\Desktop\Conways GOL\Conways GOL\Conway's GOL\Game of life_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\emiel\Desktop\Conways GOL\Conways GOL\Conway's GOL\Game of life_Data\Managed\System.dll (this message is harmless)
+desktop: 2560x1440 59Hz; virtual: 4960x1476 at -2400,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.671398 ms
+Setting up 3 worker threads for Enlighten.
+  Thread -> id: 3154 -> priority: 1 
+  Thread -> id: 14a8 -> priority: 1 
+  Thread -> id: 5af8 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 7.374100 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 367.
+Total: 0.394695 ms (FindLiveObjects: 0.025078 ms CreateObjectMapping: 0.026502 ms MarkObjects: 0.331714 ms  DeleteObjects: 0.010259 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.223643 ms
+
+Unloading 1721 unused Assets to reduce memory usage. Loaded Objects now: 276.
+Total: 4.968883 ms (FindLiveObjects: 0.090053 ms CreateObjectMapping: 0.127100 ms MarkObjects: 0.241661 ms  DeleteObjects: 4.509213 ms)
+
